@@ -48,13 +48,13 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Mohan, a business development executive at AtliQ. AtliQ is an 
+            You are Gyanesh, a business development executive at vedahousing. vedahousing is an 
             AI & Software Consulting company dedicated to automation and efficiency. 
 
-            Write a cold email to the client regarding the job, describing AtliQ's capability.  
-            Add the most relevant ones from the following links to showcase AtliQ's portfolio: {links_list}
+            Write a cold email to the client regarding the job, describing vedahousing's capability.  
+            Add the most relevant ones from the following links to showcase vedahousing's portfolio: {links_list}
 
-            Remember: You are Mohan, BDE at AtliQ.  
+            Remember: You are Mohan, BDE at vedahousing.  
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
             """
